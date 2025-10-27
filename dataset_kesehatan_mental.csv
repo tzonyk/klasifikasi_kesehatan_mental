@@ -1,0 +1,652 @@
+Jurusan,Usia,Jenis Kelamin,Pendapatan Keluarga,Lokasi Sekolah,Jumlah Jam HP Harian,Potensi Burnout
+Teknik Otomotif,15,Laki-laki,Tinggi,Suburban,6,Sedang
+Teknik Mesin,16,Perempuan,Menengah,Rural,3,Rendah
+Akuntansi,18,Perempuan,Tinggi,Suburban,9,Tinggi
+Tata Boga,16,Perempuan,Menengah,Rural,5,Sedang
+Multimedia,17,Laki-laki,Rendah,Suburban,8,Tinggi
+Perkantoran,15,Laki-laki,Rendah,Urban,7,Sedang
+Akuntansi,16,Perempuan,Tinggi,Suburban,10,Tinggi
+Tata Boga,16,Laki-laki,Tinggi,Rural,4,Rendah
+Teknik Mesin,18,Laki-laki,Menengah,Rural,5,Sedang
+Teknik Otomotif,18,Perempuan,Menengah,Urban,9,Sedang
+Multimedia,17,Perempuan,Rendah,Suburban,2,Rendah
+Perkantoran,16,Laki-laki,Rendah,Urban,6,Sedang
+Multimedia,15,Laki-laki,Tinggi,Rural,8,Tinggi
+Teknik Otomotif,17,Perempuan,Rendah,Rural,11,Tinggi
+Akuntansi,17,Perempuan,Rendah,Suburban,5,Sedang
+Perkantoran,17,Perempuan,Rendah,Urban,3,Rendah
+Teknik Mesin,17,Laki-laki,Rendah,Suburban,7,Sedang
+Tata Boga,16,Laki-laki,Tinggi,Urban,10,Tinggi
+Multimedia,15,Laki-laki,Menengah,Suburban,9,Tinggi
+Teknik Otomotif,15,Laki-laki,Rendah,Rural,4,Tinggi
+Akuntansi,16,Perempuan,Rendah,Rural,6,Sedang
+Perkantoran,17,Laki-laki,Menengah,Urban,8,Tinggi
+Tata Boga,17,Perempuan,Tinggi,Suburban,2,Rendah
+Teknik Mesin,18,Laki-laki,Rendah,Urban,10,Tinggi
+Multimedia,15,Perempuan,Menengah,Urban,5,Sedang
+Akuntansi,18,Laki-laki,Tinggi,Suburban,7,Sedang
+Teknik Otomotif,16,Perempuan,Menengah,Rural,9,Tinggi
+Perkantoran,16,Perempuan,Tinggi,Urban,3,Rendah
+Teknik Mesin,15,Laki-laki,Menengah,Rural,8,Tinggi
+Tata Boga,18,Laki-laki,Rendah,Suburban,4,Tinggi
+Tata Boga,17,Perempuan,Rendah,Rural,7,Sedang
+Teknik Otomotif,17,Perempuan,Tinggi,Rural,9,Tinggi
+Multimedia,18,Perempuan,Rendah,Urban,5,Sedang
+Akuntansi,17,Laki-laki,Rendah,Rural,10,Tinggi
+Perkantoran,15,Perempuan,Menengah,Suburban,4,Rendah
+Teknik Mesin,15,Laki-laki,Menengah,Urban,6,Sedang
+Teknik Otomotif,17,Laki-laki,Rendah,Rural,8,Tinggi
+Perkantoran,16,Perempuan,Menengah,Suburban,2,Rendah
+Akuntansi,16,Laki-laki,Tinggi,Rural,11,Tinggi
+Tata Boga,18,Laki-laki,Tinggi,Urban,7,Rendah
+Multimedia,17,Perempuan,Rendah,Suburban,5,Sedang
+Teknik Mesin,16,Laki-laki,Rendah,Urban,3,Rendah
+Akuntansi,17,Perempuan,Tinggi,Urban,8,Tinggi
+Teknik Mesin,16,Laki-laki,Menengah,Rural,6,Sedang
+Tata Boga,15,Perempuan,Tinggi,Suburban,10,Tinggi
+Perkantoran,18,Perempuan,Rendah,Urban,4,Rendah
+Multimedia,16,Laki-laki,Rendah,Rural,9,Tinggi
+Teknik Otomotif,15,Laki-laki,Menengah,Urban,2,Rendah
+Perkantoran,15,Laki-laki,Menengah,Urban,7,Sedang
+Teknik Otomotif,18,Perempuan,Tinggi,Suburban,5,Rendah
+Akuntansi,15,Laki-laki,Tinggi,Urban,10,Tinggi
+Tata Boga,16,Perempuan,Rendah,Rural,8,Tinggi
+Teknik Mesin,17,Laki-laki,Rendah,Suburban,3,Rendah
+Multimedia,18,Perempuan,Menengah,Urban,6,Sedang
+Teknik Mesin,15,Laki-laki,Tinggi,Rural,9,Tinggi
+Tata Boga,17,Perempuan,Rendah,Urban,5,Sedang
+Perkantoran,16,Laki-laki,Menengah,Suburban,11,Tinggi
+Multimedia,15,Perempuan,Menengah,Urban,4,Rendah
+Akuntansi,18,Laki-laki,Rendah,Rural,7,Sedang
+Teknik Otomotif,16,Laki-laki,Rendah,Suburban,2,Tinggi
+Akuntansi,15,Perempuan,Tinggi,Urban,6,Sedang
+Teknik Otomotif,17,Laki-laki,Menengah,Rural,8,Tinggi
+Tata Boga,16,Laki-laki,Rendah,Suburban,3,Rendah
+Teknik Mesin,17,Perempuan,Tinggi,Urban,10,Tinggi
+Perkantoran,18,Perempuan,Menengah,Rural,5,Sedang
+Multimedia,16,Laki-laki,Rendah,Urban,9,Tinggi
+Tata Boga,17,Perempuan,Menengah,Rural,7,Sedang
+Teknik Mesin,18,Laki-laki,Rendah,Suburban,4,Rendah
+Akuntansi,15,Laki-laki,Tinggi,Urban,8,Tinggi
+Teknik Otomotif,18,Perempuan,Rendah,Rural,11,Sedang
+Multimedia,17,Laki-laki,Menengah,Suburban,2,Rendah
+Perkantoran,16,Perempuan,Menengah,Urban,6,Sedang
+Teknik Mesin,17,Laki-laki,Tinggi,Urban,7,Sedang
+Teknik Otomotif,15,Laki-laki,Menengah,Suburban,3,Rendah
+Akuntansi,16,Perempuan,Rendah,Rural,9,Tinggi
+Tata Boga,18,Laki-laki,Tinggi,Rural,5,Sedang
+Multimedia,15,Perempuan,Menengah,Urban,8,Tinggi
+Perkantoran,17,Perempuan,Rendah,Suburban,10,Tinggi
+Tata Boga,16,Perempuan,Tinggi,Rural,6,Sedang
+Akuntansi,18,Laki-laki,Menengah,Urban,4,Tinggi
+Multimedia,17,Laki-laki,Rendah,Suburban,2,Rendah
+Teknik Mesin,16,Laki-laki,Tinggi,Urban,7,Sedang
+Perkantoran,15,Perempuan,Rendah,Rural,9,Tinggi
+Teknik Otomotif,17,Laki-laki,Menengah,Suburban,11,Tinggi
+Multimedia,18,Perempuan,Tinggi,Urban,5,Sedang
+Teknik Mesin,15,Laki-laki,Menengah,Rural,8,Tinggi
+Akuntansi,16,Laki-laki,Rendah,Suburban,3,Rendah
+Tata Boga,17,Perempuan,Rendah,Urban,10,Tinggi
+Perkantoran,16,Laki-laki,Tinggi,Suburban,6,Sedang
+Teknik Otomotif,18,Perempuan,Menengah,Urban,4,Tinggi
+Akuntansi,15,Perempuan,Tinggi,Rural,7,Sedang
+Teknik Mesin,17,Laki-laki,Rendah,Suburban,9,Tinggi
+Multimedia,16,Laki-laki,Menengah,Urban,2,Rendah
+Tata Boga,18,Laki-laki,Tinggi,Rural,8,Tinggi
+Perkantoran,17,Perempuan,Rendah,Suburban,5,Sedang
+Teknik Otomotif,15,Laki-laki,Rendah,Urban,10,Tinggi
+Teknik Otomotif,17,Perempuan,Tinggi,Urban,6,Sedang
+Perkantoran,15,Laki-laki,Menengah,Rural,4,Rendah
+Tata Boga,16,Perempuan,Rendah,Suburban,8,Tinggi
+Multimedia,18,Laki-laki,Menengah,Urban,3,Tinggi
+Akuntansi,16,Perempuan,Tinggi,Rural,11,Tinggi
+Teknik Mesin,15,Laki-laki,Rendah,Suburban,7,Sedang
+Multimedia,17,Perempuan,Rendah,Rural,5,Sedang
+Perkantoran,18,Laki-laki,Tinggi,Urban,9,Tinggi
+Tata Boga,15,Laki-laki,Menengah,Suburban,2,Rendah
+Akuntansi,17,Perempuan,Rendah,Urban,10,Tinggi
+Teknik Mesin,16,Laki-laki,Rendah,Rural,6,Sedang
+Teknik Otomotif,18,Laki-laki,Menengah,Urban,4,Rendah
+Teknik Mesin,15,Perempuan,Menengah,Suburban,8,Tinggi
+Teknik Otomotif,16,Laki-laki,Rendah,Rural,5,Rendah
+Akuntansi,18,Laki-laki,Tinggi,Urban,3,Rendah
+Tata Boga,17,Perempuan,Rendah,Suburban,11,Tinggi
+Perkantoran,17,Perempuan,Menengah,Urban,7,Sedang
+Multimedia,15,Laki-laki,Tinggi,Rural,9,Tinggi
+Akuntansi,16,Perempuan,Rendah,Urban,2,Rendah
+Multimedia,18,Laki-laki,Menengah,Suburban,6,Sedang
+Teknik Mesin,17,Laki-laki,Menengah,Rural,4,Rendah
+Tata Boga,16,Laki-laki,Tinggi,Urban,8,Tinggi
+Perkantoran,15,Perempuan,Rendah,Suburban,10,Tinggi
+Teknik Otomotif,17,Perempuan,Menengah,Urban,5,Rendah
+Teknik Mesin,16,Laki-laki,Tinggi,Suburban,7,Sedang
+Perkantoran,18,Perempuan,Rendah,Rural,3,Rendah
+Multimedia,17,Laki-laki,Rendah,Urban,9,Tinggi
+Teknik Otomotif,15,Laki-laki,Menengah,Rural,11,Tinggi
+Akuntansi,16,Perempuan,Tinggi,Suburban,6,Sedang
+Tata Boga,18,Laki-laki,Menengah,Urban,2,Rendah
+Multimedia,15,Perempuan,Tinggi,Suburban,8,Tinggi
+Teknik Mesin,17,Laki-laki,Rendah,Rural,5,Sedang
+Akuntansi,18,Laki-laki,Rendah,Urban,10,Tinggi
+Perkantoran,16,Perempuan,Menengah,Suburban,4,Tinggi
+Teknik Otomotif,17,Laki-laki,Tinggi,Urban,7,Sedang
+Tata Boga,15,Perempuan,Rendah,Rural,9,Tinggi
+Tata Boga,18,Perempuan,Tinggi,Rural,3,Rendah
+Teknik Otomotif,16,Laki-laki,Rendah,Suburban,6,Sedang
+Akuntansi,17,Laki-laki,Menengah,Urban,8,Tinggi
+Multimedia,15,Perempuan,Menengah,Urban,10,Tinggi
+Teknik Mesin,18,Laki-laki,Rendah,Rural,5,Sedang
+Perkantoran,17,Perempuan,Tinggi,Suburban,2,Rendah
+Teknik Mesin,16,Laki-laki,Menengah,Urban,7,Sedang
+Akuntansi,15,Laki-laki,Rendah,Suburban,4,Tinggi
+Teknik Otomotif,17,Perempuan,Rendah,Rural,9,Tinggi
+Multimedia,18,Laki-laki,Tinggi,Urban,11,Tinggi
+Tata Boga,16,Laki-laki,Menengah,Rural,6,Sedang
+Perkantoran,17,Perempuan,Rendah,Urban,3,Rendah
+Akuntansi,15,Perempuan,Menengah,Suburban,8,Tinggi
+Perkantoran,16,Laki-laki,Tinggi,Rural,5,Sedang
+Multimedia,17,Perempuan,Rendah,Urban,10,Tinggi
+Teknik Otomotif,18,Laki-laki,Menengah,Suburban,2,Rendah
+Teknik Mesin,15,Laki-laki,Rendah,Urban,7,Sedang
+Tata Boga,16,Perempuan,Tinggi,Rural,9,Sedang
+Teknik Mesin,17,Laki-laki,Menengah,Suburban,4,Rendah
+Akuntansi,18,Perempuan,Rendah,Urban,6,Sedang
+Tata Boga,15,Laki-laki,Tinggi,Rural,8,Tinggi
+Multimedia,16,Laki-laki,Menengah,Urban,11,Tinggi
+Perkantoran,17,Perempuan,Rendah,Suburban,3,Rendah
+Teknik Otomotif,18,Laki-laki,Tinggi,Rural,7,Sedang
+Multimedia,16,Perempuan,Menengah,Urban,5,Sedang
+Teknik Otomotif,17,Laki-laki,Rendah,Suburban,9,Tinggi
+Teknik Mesin,15,Laki-laki,Menengah,Urban,2,Rendah
+Perkantoran,18,Perempuan,Tinggi,Rural,8,Sedang
+Akuntansi,16,Laki-laki,Rendah,Suburban,4,Rendah
+Tata Boga,17,Perempuan,Menengah,Urban,10,Tinggi
+Akuntansi,15,Perempuan,Menengah,Rural,6,Sedang
+Tata Boga,18,Laki-laki,Tinggi,Suburban,3,Rendah
+Teknik Mesin,17,Laki-laki,Rendah,Urban,7,Sedang
+Perkantoran,16,Perempuan,Rendah,Rural,9,Tinggi
+Multimedia,15,Laki-laki,Tinggi,Urban,5,Sedang
+Teknik Otomotif,18,Perempuan,Menengah,Suburban,11,Tinggi
+Teknik Mesin,17,Laki-laki,Tinggi,Urban,8,Tinggi
+Teknik Otomotif,15,Laki-laki,Rendah,Rural,4,Tinggi
+Multimedia,16,Perempuan,Menengah,Suburban,6,Sedang
+Akuntansi,18,Laki-laki,Rendah,Urban,2,Rendah
+Perkantoran,17,Perempuan,Tinggi,Rural,10,Tinggi
+Tata Boga,16,Laki-laki,Menengah,Urban,7,Sedang
+Teknik Mesin,15,Laki-laki,Rendah,Suburban,5,Sedang
+Teknik Otomotif,18,Perempuan,Menengah,Urban,9,Tinggi
+Akuntansi,17,Laki-laki,Tinggi,Rural,3,Rendah
+Tata Boga,16,Perempuan,Rendah,Suburban,8,Tinggi
+Multimedia,15,Laki-laki,Menengah,Urban,11,Tinggi
+Perkantoran,18,Perempuan,Rendah,Rural,6,Rendah
+Teknik Mesin,17,Laki-laki,Tinggi,Suburban,4,Rendah
+Akuntansi,16,Perempuan,Menengah,Urban,7,Sedang
+Teknik Otomotif,15,Laki-laki,Rendah,Rural,2,Rendah
+Tata Boga,17,Laki-laki,Tinggi,Suburban,9,Tinggi
+Multimedia,18,Perempuan,Rendah,Urban,5,Sedang
+Perkantoran,16,Laki-laki,Menengah,Rural,10,Tinggi
+Teknik Mesin,15,Laki-laki,Rendah,Urban,8,Tinggi
+Teknik Mesin,17,Perempuan,Tinggi,Suburban,6,Sedang
+Perkantoran,18,Laki-laki,Rendah,Rural,3,Rendah
+Tata Boga,16,Perempuan,Menengah,Urban,9,Sedang
+Akuntansi,15,Laki-laki,Menengah,Suburban,5,Sedang
+Multimedia,17,Perempuan,Tinggi,Urban,11,Tinggi
+Teknik Otomotif,16,Laki-laki,Rendah,Rural,7,Sedang
+Akuntansi,18,Laki-laki,Tinggi,Urban,4,Rendah
+Teknik Otomotif,15,Perempuan,Rendah,Suburban,8,Tinggi
+Multimedia,16,Laki-laki,Menengah,Rural,2,Rendah
+Teknik Mesin,17,Laki-laki,Rendah,Urban,10,Tinggi
+Perkantoran,18,Perempuan,Menengah,Suburban,6,Sedang
+Tata Boga,15,Laki-laki,Tinggi,Urban,5,Sedang
+Perkantoran,17,Perempuan,Rendah,Rural,7,Rendah
+Tata Boga,16,Laki-laki,Menengah,Suburban,3,Rendah
+Teknik Mesin,18,Perempuan,Tinggi,Urban,9,Tinggi
+Akuntansi,15,Laki-laki,Rendah,Rural,11,Tinggi
+Multimedia,17,Perempuan,Menengah,Urban,6,Sedang
+Teknik Otomotif,16,Laki-laki,Rendah,Suburban,4,Rendah
+Multimedia,18,Laki-laki,Tinggi,Rural,8,Tinggi
+Teknik Otomotif,15,Laki-laki,Menengah,Urban,2,Rendah
+Perkantoran,17,Perempuan,Rendah,Suburban,7,Sedang
+Akuntansi,16,Perempuan,Tinggi,Urban,10,Tinggi
+Tata Boga,18,Laki-laki,Menengah,Rural,5,Rendah
+Teknik Mesin,17,Laki-laki,Rendah,Suburban,9,Tinggi
+Teknik Mesin,16,Laki-laki,Rendah,Urban,3,Rendah
+Akuntansi,15,Perempuan,Tinggi,Rural,6,Sedang
+Perkantoran,18,Laki-laki,Menengah,Suburban,8,Tinggi
+Multimedia,17,Laki-laki,Rendah,Urban,11,Tinggi
+Tata Boga,16,Perempuan,Tinggi,Rural,4,Rendah
+Teknik Otomotif,15,Laki-laki,Menengah,Urban,7,Sedang
+Perkantoran,16,Perempuan,Rendah,Suburban,5,Sedang
+Teknik Mesin,18,Laki-laki,Tinggi,Rural,2,Rendah
+Multimedia,15,Perempuan,Menengah,Urban,9,Sedang
+Akuntansi,17,Laki-laki,Rendah,Rural,10,Tinggi
+Tata Boga,16,Laki-laki,Tinggi,Suburban,6,Sedang
+Teknik Otomotif,18,Perempuan,Menengah,Urban,3,Rendah
+Teknik Mesin,17,Laki-laki,Rendah,Rural,8,Tinggi
+Akuntansi,15,Laki-laki,Tinggi,Urban,5,Sedang
+Perkantoran,16,Perempuan,Menengah,Suburban,7,Sedang
+Multimedia,18,Laki-laki,Rendah,Rural,4,Rendah
+Teknik Otomotif,17,Laki-laki,Menengah,Urban,9,Tinggi
+Tata Boga,15,Perempuan,Tinggi,Suburban,11,Tinggi
+Teknik Mesin,16,Perempuan,Rendah,Urban,2,Tinggi
+Multimedia,17,Laki-laki,Menengah,Rural,6,Sedang
+Perkantoran,18,Perempuan,Rendah,Suburban,8,Tinggi
+Akuntansi,15,Laki-laki,Tinggi,Urban,10,Tinggi
+Teknik Mesin,17,Laki-laki,Rendah,Rural,5,Sedang
+Teknik Otomotif,16,Perempuan,Menengah,Urban,3,Rendah
+Tata Boga,18,Laki-laki,Tinggi,Suburban,7,Sedang
+Perkantoran,15,Perempuan,Rendah,Rural,9,Tinggi
+Multimedia,16,Perempuan,Menengah,Urban,4,Rendah
+Akuntansi,17,Laki-laki,Rendah,Suburban,8,Tinggi
+Tata Boga,15,Perempuan,Tinggi,Urban,6,Rendah
+Teknik Otomotif,18,Laki-laki,Menengah,Rural,2,Rendah
+Teknik Mesin,16,Laki-laki,Rendah,Suburban,10,Tinggi
+Perkantoran,17,Laki-laki,Tinggi,Urban,5,Sedang
+Multimedia,18,Perempuan,Menengah,Rural,7,Sedang
+Akuntansi,15,Perempuan,Rendah,Suburban,9,Tinggi
+Tata Boga,17,Laki-laki,Tinggi,Urban,4,Rendah
+Teknik Mesin,16,Laki-laki,Menengah,Rural,11,Tinggi
+Teknik Otomotif,15,Laki-laki,Rendah,Urban,6,Sedang
+Perkantoran,18,Perempuan,Menengah,Suburban,3,Rendah
+Multimedia,17,Laki-laki,Rendah,Rural,8,Sedang
+Akuntansi,16,Perempuan,Tinggi,Urban,5,Sedang
+Teknik Mesin,15,Laki-laki,Menengah,Suburban,10,Tinggi
+Perkantoran,17,Laki-laki,Rendah,Rural,7,Sedang
+Tata Boga,18,Perempuan,Tinggi,Urban,2,Rendah
+Teknik Otomotif,16,Perempuan,Menengah,Suburban,9,Tinggi
+Multimedia,15,Laki-laki,Tinggi,Urban,4,Rendah
+Akuntansi,18,Laki-laki,Rendah,Rural,6,Sedang
+Teknik Mesin,17,Laki-laki,Rendah,Urban,8,Tinggi
+Teknik Otomotif,16,Laki-laki,Menengah,Suburban,10,Tinggi
+Multimedia,15,Perempuan,Rendah,Rural,5,Rendah
+Perkantoran,17,Perempuan,Tinggi,Urban,3,Rendah
+Tata Boga,18,Laki-laki,Menengah,Suburban,7,Sedang
+Akuntansi,16,Laki-laki,Rendah,Rural,9,Tinggi
+Teknik Mesin,17,Perempuan,Menengah,Urban,11,Tinggi
+Multimedia,18,Laki-laki,Tinggi,Suburban,6,Sedang
+Teknik Otomotif,15,Laki-laki,Rendah,Rural,4,Rendah
+Perkantoran,16,Perempuan,Menengah,Urban,8,Tinggi
+Akuntansi,17,Perempuan,Rendah,Suburban,2,Rendah
+Tata Boga,18,Laki-laki,Tinggi,Urban,10,Tinggi
+Teknik Mesin,15,Laki-laki,Rendah,Rural,7,Rendah
+Akuntansi,16,Laki-laki,Menengah,Urban,5,Sedang
+Multimedia,17,Perempuan,Rendah,Suburban,9,Tinggi
+Tata Boga,15,Perempuan,Tinggi,Rural,3,Rendah
+Teknik Otomotif,18,Laki-laki,Menengah,Urban,8,Tinggi
+Perkantoran,17,Laki-laki,Rendah,Suburban,6,Sedang
+Teknik Mesin,16,Laki-laki,Tinggi,Rural,11,Tinggi
+Teknik Mesin,15,Perempuan,Rendah,Urban,4,Rendah
+Perkantoran,16,Perempuan,Menengah,Suburban,7,Sedang
+Akuntansi,17,Laki-laki,Tinggi,Rural,2,Rendah
+Multimedia,18,Laki-laki,Menengah,Urban,10,Sedang
+Tata Boga,15,Laki-laki,Rendah,Rural,8,Tinggi
+Teknik Otomotif,17,Perempuan,Menengah,Suburban,5,Sedang
+Perkantoran,18,Perempuan,Tinggi,Urban,9,Tinggi
+Teknik Mesin,16,Laki-laki,Rendah,Rural,3,Rendah
+Akuntansi,15,Perempuan,Menengah,Suburban,6,Sedang
+Multimedia,17,Laki-laki,Rendah,Urban,11,Tinggi
+Tata Boga,16,Perempuan,Tinggi,Rural,7,Sedang
+Teknik Otomotif,18,Laki-laki,Menengah,Urban,4,Rendah
+Teknik Mesin,15,Laki-laki,Rendah,Suburban,8,Tinggi
+Akuntansi,17,Perempuan,Tinggi,Urban,2,Tinggi
+Multimedia,16,Laki-laki,Menengah,Rural,10,Tinggi
+Perkantoran,18,Laki-laki,Rendah,Suburban,5,Sedang
+Tata Boga,17,Laki-laki,Menengah,Urban,9,Tinggi
+Teknik Otomotif,15,Perempuan,Tinggi,Rural,6,Sedang
+Akuntansi,16,Laki-laki,Rendah,Urban,3,Rendah
+Teknik Mesin,18,Laki-laki,Menengah,Suburban,7,Sedang
+Multimedia,17,Perempuan,Rendah,Rural,8,Tinggi
+Tata Boga,15,Perempuan,Tinggi,Urban,10,Tinggi
+Perkantoran,16,Laki-laki,Menengah,Suburban,4,Rendah
+Teknik Otomotif,17,Laki-laki,Rendah,Urban,11,Sedang
+Teknik Mesin,18,Perempuan,Tinggi,Rural,5,Sedang
+Akuntansi,15,Laki-laki,Menengah,Suburban,9,Tinggi
+Multimedia,16,Laki-laki,Rendah,Urban,2,Rendah
+Perkantoran,17,Perempuan,Rendah,Rural,7,Sedang
+Tata Boga,18,Laki-laki,Menengah,Urban,6,Sedang
+Teknik Otomotif,16,Perempuan,Tinggi,Suburban,3,Rendah
+Teknik Mesin,15,Laki-laki,Rendah,Rural,8,Tinggi
+Akuntansi,17,Laki-laki,Menengah,Urban,10,Tinggi
+Multimedia,18,Perempuan,Rendah,Suburban,5,Sedang
+Perkantoran,16,Laki-laki,Tinggi,Rural,9,Sedang
+Tata Boga,17,Perempuan,Menengah,Urban,4,Rendah
+Teknik Mesin,15,Laki-laki,Rendah,Suburban,7,Sedang
+Teknik Otomotif,18,Laki-laki,Menengah,Urban,2,Rendah
+Akuntansi,16,Perempuan,Tinggi,Rural,11,Tinggi
+Multimedia,15,Laki-laki,Menengah,Urban,6,Sedang
+Perkantoran,17,Perempuan,Rendah,Suburban,8,Tinggi
+Tata Boga,18,Laki-laki,Tinggi,Rural,3,Rendah
+Teknik Mesin,16,Laki-laki,Rendah,Urban,10,Tinggi
+Teknik Otomotif,17,Perempuan,Menengah,Suburban,5,Sedang
+Akuntansi,15,Laki-laki,Rendah,Rural,7,Rendah
+Multimedia,18,Perempuan,Tinggi,Urban,9,Tinggi
+Perkantoran,16,Laki-laki,Menengah,Urban,4,Rendah
+Tata Boga,17,Perempuan,Rendah,Suburban,8,Tinggi
+Teknik Mesin,15,Laki-laki,Menengah,Rural,2,Rendah
+Teknik Otomotif,16,Laki-laki,Tinggi,Urban,6,Sedang
+Akuntansi,18,Perempuan,Rendah,Rural,10,Tinggi
+Multimedia,17,Laki-laki,Menengah,Suburban,3,Rendah
+Perkantoran,15,Perempuan,Tinggi,Urban,7,Sedang
+Tata Boga,16,Laki-laki,Rendah,Suburban,9,Tinggi
+Teknik Mesin,17,Laki-laki,Rendah,Rural,5,Rendah
+Teknik Otomotif,18,Perempuan,Menengah,Urban,11,Tinggi
+Akuntansi,16,Laki-laki,Tinggi,Suburban,6,Sedang
+Multimedia,15,Perempuan,Rendah,Rural,4,Rendah
+Perkantoran,17,Laki-laki,Menengah,Urban,8,Tinggi
+Tata Boga,18,Perempuan,Tinggi,Suburban,2,Rendah
+Teknik Mesin,16,Laki-laki,Rendah,Urban,10,Tinggi
+Teknik Otomotif,15,Laki-laki,Menengah,Rural,7,Sedang
+Akuntansi,17,Perempuan,Rendah,Suburban,5,Sedang
+Multimedia,18,Laki-laki,Tinggi,Urban,9,Tinggi
+Perkantoran,16,Perempuan,Menengah,Rural,3,Tinggi
+Tata Boga,15,Laki-laki,Rendah,Suburban,8,Tinggi
+Teknik Mesin,17,Perempuan,Menengah,Urban,6,Sedang
+Teknik Otomotif,18,Laki-laki,Tinggi,Rural,11,Tinggi
+Akuntansi,15,Laki-laki,Rendah,Suburban,4,Rendah
+Multimedia,16,Perempuan,Menengah,Urban,7,Sedang
+Perkantoran,17,Laki-laki,Tinggi,Rural,2,Rendah
+Tata Boga,18,Perempuan,Menengah,Urban,9,Tinggi
+Teknik Mesin,16,Laki-laki,Rendah,Suburban,5,Sedang
+Teknik Otomotif,15,Laki-laki,Menengah,Rural,10,Tinggi
+Akuntansi,17,Perempuan,Rendah,Urban,8,Sedang
+Multimedia,18,Laki-laki,Tinggi,Suburban,3,Rendah
+Perkantoran,16,Perempuan,Menengah,Rural,6,Sedang
+Tata Boga,17,Laki-laki,Rendah,Urban,11,Tinggi
+Teknik Mesin,15,Laki-laki,Menengah,Suburban,7,Sedang
+Teknik Otomotif,18,Perempuan,Tinggi,Rural,4,Rendah
+Akuntansi,16,Laki-laki,Rendah,Urban,9,Tinggi
+Multimedia,15,Perempuan,Menengah,Suburban,2,Rendah
+Perkantoran,17,Laki-laki,Rendah,Rural,8,Tinggi
+Tata Boga,18,Perempuan,Tinggi,Urban,5,Sedang
+Teknik Mesin,17,Laki-laki,Menengah,Suburban,10,Sedang
+Teknik Otomotif,16,Laki-laki,Rendah,Urban,6,Sedang
+Akuntansi,15,Perempuan,Tinggi,Rural,3,Rendah
+Multimedia,18,Laki-laki,Menengah,Urban,7,Sedang
+Perkantoran,17,Perempuan,Rendah,Suburban,9,Tinggi
+Tata Boga,16,Laki-laki,Tinggi,Rural,11,Tinggi
+Teknik Mesin,15,Laki-laki,Rendah,Urban,4,Rendah
+Teknik Otomotif,17,Perempuan,Menengah,Suburban,8,Tinggi
+Akuntansi,18,Laki-laki,Rendah,Rural,2,Rendah
+Multimedia,16,Perempuan,Tinggi,Urban,6,Sedang
+Perkantoran,15,Laki-laki,Menengah,Suburban,10,Sedang
+Tata Boga,17,Perempuan,Rendah,Rural,5,Sedang
+Teknik Mesin,18,Laki-laki,Menengah,Urban,7,Sedang
+Teknik Otomotif,16,Laki-laki,Tinggi,Suburban,3,Rendah
+Akuntansi,17,Perempuan,Rendah,Rural,9,Tinggi
+Multimedia,15,Laki-laki,Menengah,Urban,8,Tinggi
+Perkantoran,18,Perempuan,Tinggi,Suburban,4,Rendah
+Tata Boga,16,Laki-laki,Rendah,Urban,11,Tinggi
+Teknik Mesin,17,Laki-laki,Rendah,Rural,6,Sedang
+Teknik Otomotif,15,Perempuan,Menengah,Suburban,2,Rendah
+Akuntansi,16,Laki-laki,Tinggi,Urban,7,Rendah
+Multimedia,18,Perempuan,Rendah,Rural,10,Tinggi
+Perkantoran,17,Laki-laki,Menengah,Suburban,5,Sedang
+Tata Boga,15,Perempuan,Tinggi,Urban,8,Tinggi
+Teknik Mesin,16,Laki-laki,Rendah,Rural,3,Rendah
+Teknik Otomotif,18,Laki-laki,Menengah,Urban,9,Tinggi
+Akuntansi,17,Perempuan,Rendah,Suburban,6,Sedang
+Multimedia,15,Laki-laki,Tinggi,Rural,4,Rendah
+Perkantoran,16,Perempuan,Menengah,Urban,11,Tinggi
+Tata Boga,18,Laki-laki,Rendah,Suburban,7,Sedang
+Teknik Mesin,17,Laki-laki,Tinggi,Urban,2,Tinggi
+Teknik Otomotif,15,Laki-laki,Rendah,Rural,8,Tinggi
+Akuntansi,16,Perempuan,Menengah,Suburban,5,Sedang
+Multimedia,17,Perempuan,Rendah,Urban,10,Tinggi
+Perkantoran,18,Laki-laki,Tinggi,Rural,6,Sedang
+Tata Boga,16,Perempuan,Menengah,Urban,3,Rendah
+Teknik Mesin,15,Laki-laki,Rendah,Suburban,9,Tinggi
+Teknik Otomotif,17,Laki-laki,Menengah,Rural,7,Sedang
+Akuntansi,18,Laki-laki,Rendah,Urban,4,Rendah
+Multimedia,16,Laki-laki,Tinggi,Suburban,8,Tinggi
+Perkantoran,15,Perempuan,Menengah,Rural,11,Sedang
+Tata Boga,17,Laki-laki,Rendah,Urban,2,Rendah
+Teknik Mesin,18,Perempuan,Tinggi,Suburban,6,Sedang
+Teknik Otomotif,16,Laki-laki,Rendah,Rural,10,Tinggi
+Akuntansi,17,Perempuan,Menengah,Urban,5,Sedang
+Multimedia,15,Laki-laki,Rendah,Suburban,7,Sedang
+Perkantoran,18,Perempuan,Tinggi,Rural,3,Rendah
+Tata Boga,16,Perempuan,Menengah,Urban,9,Tinggi
+Teknik Mesin,17,Laki-laki,Rendah,Suburban,8,Tinggi
+Teknik Otomotif,15,Laki-laki,Menengah,Rural,4,Rendah
+Akuntansi,18,Laki-laki,Rendah,Urban,11,Sedang
+Multimedia,17,Perempuan,Tinggi,Suburban,6,Sedang
+Perkantoran,16,Laki-laki,Menengah,Rural,2,Rendah
+Tata Boga,15,Laki-laki,Rendah,Urban,7,Sedang
+Teknik Mesin,18,Laki-laki,Menengah,Suburban,10,Tinggi
+Teknik Otomotif,17,Perempuan,Tinggi,Rural,5,Sedang
+Akuntansi,16,Perempuan,Rendah,Urban,8,Tinggi
+Multimedia,15,Laki-laki,Menengah,Suburban,3,Rendah
+Perkantoran,17,Perempuan,Rendah,Rural,9,Tinggi
+Tata Boga,18,Laki-laki,Tinggi,Urban,6,Sedang
+Teknik Mesin,16,Laki-laki,Rendah,Suburban,4,Tinggi
+Teknik Otomotif,15,Laki-laki,Menengah,Urban,11,Tinggi
+Akuntansi,17,Laki-laki,Tinggi,Rural,7,Sedang
+Multimedia,18,Perempuan,Menengah,Suburban,2,Rendah
+Perkantoran,16,Laki-laki,Rendah,Urban,8,Tinggi
+Tata Boga,17,Perempuan,Tinggi,Rural,10,Tinggi
+Teknik Mesin,15,Laki-laki,Menengah,Suburban,5,Sedang
+Teknik Otomotif,18,Laki-laki,Rendah,Urban,3,Rendah
+Akuntansi,16,Perempuan,Rendah,Rural,7,Sedang
+Multimedia,17,Laki-laki,Tinggi,Suburban,9,Tinggi
+Perkantoran,15,Perempuan,Menengah,Urban,6,Rendah
+Tata Boga,18,Laki-laki,Rendah,Rural,4,Rendah
+Teknik Mesin,17,Perempuan,Tinggi,Suburban,8,Tinggi
+Teknik Otomotif,16,Laki-laki,Menengah,Urban,11,Tinggi
+Akuntansi,15,Laki-laki,Rendah,Rural,2,Rendah
+Multimedia,18,Perempuan,Menengah,Suburban,7,Sedang
+Perkantoran,17,Laki-laki,Tinggi,Urban,10,Tinggi
+Tata Boga,16,Perempuan,Menengah,Rural,5,Sedang
+Teknik Mesin,15,Laki-laki,Rendah,Suburban,9,Tinggi
+Teknik Otomotif,17,Perempuan,Rendah,Urban,3,Rendah
+Akuntansi,18,Laki-laki,Menengah,Rural,6,Rendah
+Multimedia,16,Laki-laki,Tinggi,Suburban,8,Tinggi
+Perkantoran,15,Perempuan,Rendah,Urban,10,Tinggi
+Tata Boga,17,Laki-laki,Menengah,Rural,4,Rendah
+Teknik Mesin,18,Laki-laki,Rendah,Suburban,7,Sedang
+Teknik Otomotif,16,Laki-laki,Tinggi,Urban,2,Rendah
+Akuntansi,17,Perempuan,Menengah,Rural,9,Tinggi
+Multimedia,15,Perempuan,Rendah,Suburban,5,Sedang
+Perkantoran,18,Laki-laki,Tinggi,Urban,11,Tinggi
+Tata Boga,16,Laki-laki,Menengah,Rural,8,Tinggi
+Teknik Mesin,17,Laki-laki,Rendah,Suburban,3,Tinggi
+Teknik Otomotif,15,Perempuan,Menengah,Urban,6,Sedang
+Akuntansi,16,Laki-laki,Rendah,Rural,10,Tinggi
+Multimedia,18,Laki-laki,Tinggi,Suburban,4,Rendah
+Perkantoran,17,Perempuan,Rendah,Urban,7,Sedang
+Tata Boga,15,Perempuan,Tinggi,Rural,9,Tinggi
+Teknik Mesin,16,Laki-laki,Menengah,Suburban,2,Rendah
+Teknik Otomotif,18,Laki-laki,Rendah,Urban,8,Tinggi
+Akuntansi,17,Perempuan,Menengah,Rural,5,Sedang
+Multimedia,15,Laki-laki,Rendah,Suburban,11,Tinggi
+Perkantoran,16,Laki-laki,Tinggi,Urban,7,Rendah
+Tata Boga,18,Laki-laki,Menengah,Rural,3,Rendah
+Teknik Mesin,17,Perempuan,Rendah,Suburban,6,Sedang
+Teknik Otomotif,15,Laki-laki,Tinggi,Urban,9,Tinggi
+Akuntansi,16,Perempuan,Menengah,Rural,4,Rendah
+Multimedia,17,Laki-laki,Rendah,Suburban,8,Tinggi
+Perkantoran,18,Perempuan,Tinggi,Urban,10,Tinggi
+Tata Boga,16,Perempuan,Menengah,Rural,2,Rendah
+Teknik Mesin,15,Laki-laki,Rendah,Suburban,7,Sedang
+Teknik Otomotif,17,Laki-laki,Menengah,Urban,5,Sedang
+Akuntansi,18,Laki-laki,Rendah,Rural,9,Sedang
+Multimedia,16,Perempuan,Tinggi,Suburban,3,Rendah
+Perkantoran,15,Laki-laki,Menengah,Urban,8,Tinggi
+Tata Boga,17,Laki-laki,Rendah,Rural,11,Tinggi
+Teknik Mesin,18,Laki-laki,Menengah,Suburban,6,Sedang
+Teknik Otomotif,16,Perempuan,Tinggi,Urban,4,Rendah
+Akuntansi,17,Laki-laki,Rendah,Rural,7,Sedang
+Multimedia,15,Perempuan,Menengah,Suburban,2,Rendah
+Perkantoran,18,Perempuan,Tinggi,Urban,9,Tinggi
+Tata Boga,16,Laki-laki,Menengah,Rural,5,Sedang
+Teknik Mesin,17,Laki-laki,Rendah,Suburban,10,Sedang
+Teknik Otomotif,15,Laki-laki,Rendah,Urban,8,Tinggi
+Akuntansi,16,Perempuan,Menengah,Rural,3,Rendah
+Multimedia,18,Laki-laki,Tinggi,Suburban,6,Sedang
+Perkantoran,17,Perempuan,Rendah,Urban,11,Tinggi
+Tata Boga,15,Perempuan,Tinggi,Rural,7,Sedang
+Teknik Mesin,16,Laki-laki,Menengah,Suburban,4,Rendah
+Teknik Otomotif,18,Laki-laki,Rendah,Urban,9,Tinggi
+Akuntansi,17,Laki-laki,Tinggi,Rural,2,Rendah
+Multimedia,15,Perempuan,Menengah,Suburban,8,Tinggi
+Perkantoran,16,Laki-laki,Rendah,Urban,5,Rendah
+Tata Boga,18,Laki-laki,Menengah,Rural,10,Tinggi
+Teknik Mesin,17,Perempuan,Tinggi,Suburban,7,Sedang
+Teknik Otomotif,15,Laki-laki,Rendah,Urban,3,Rendah
+Akuntansi,16,Perempuan,Menengah,Rural,9,Tinggi
+Multimedia,18,Laki-laki,Rendah,Suburban,6,Sedang
+Perkantoran,17,Perempuan,Tinggi,Urban,4,Rendah
+Tata Boga,15,Laki-laki,Rendah,Rural,8,Tinggi
+Teknik Mesin,16,Laki-laki,Menengah,Suburban,11,Tinggi
+Teknik Otomotif,18,Perempuan,Tinggi,Urban,2,Rendah
+Akuntansi,17,Laki-laki,Rendah,Rural,7,Rendah
+Multimedia,15,Perempuan,Menengah,Suburban,10,Tinggi
+Perkantoran,16,Laki-laki,Menengah,Urban,5,Sedang
+Tata Boga,18,Perempuan,Rendah,Rural,9,Tinggi
+Teknik Mesin,17,Laki-laki,Tinggi,Suburban,3,Rendah
+Teknik Otomotif,15,Laki-laki,Menengah,Urban,6,Sedang
+Akuntansi,16,Perempuan,Rendah,Rural,8,Tinggi
+Multimedia,17,Laki-laki,Menengah,Suburban,4,Rendah
+Perkantoran,18,Perempuan,Tinggi,Urban,11,Tinggi
+Tata Boga,16,Laki-laki,Menengah,Rural,7,Sedang
+Teknik Mesin,15,Laki-laki,Rendah,Suburban,2,Tinggi
+Teknik Otomotif,17,Perempuan,Rendah,Urban,9,Tinggi
+Akuntansi,18,Laki-laki,Menengah,Rural,5,Sedang
+Multimedia,16,Perempuan,Tinggi,Suburban,10,Tinggi
+Perkantoran,15,Laki-laki,Rendah,Urban,8,Tinggi
+Tata Boga,17,Laki-laki,Menengah,Rural,3,Rendah
+Teknik Mesin,18,Laki-laki,Rendah,Suburban,6,Sedang
+Teknik Otomotif,16,Laki-laki,Tinggi,Urban,11,Tinggi
+Akuntansi,17,Perempuan,Menengah,Rural,4,Rendah
+Multimedia,15,Laki-laki,Rendah,Suburban,7,Sedang
+Perkantoran,18,Perempuan,Tinggi,Urban,2,Tinggi
+Tata Boga,16,Perempuan,Menengah,Rural,9,Tinggi
+Teknik Mesin,17,Laki-laki,Rendah,Suburban,5,Sedang
+Teknik Otomotif,15,Laki-laki,Menengah,Urban,8,Tinggi
+Akuntansi,16,Laki-laki,Rendah,Rural,10,Tinggi
+Multimedia,18,Perempuan,Tinggi,Suburban,3,Rendah
+Perkantoran,17,Laki-laki,Menengah,Urban,6,Sedang
+Tata Boga,15,Laki-laki,Rendah,Rural,11,Tinggi
+Teknik Mesin,16,Perempuan,Menengah,Suburban,7,Sedang
+Teknik Otomotif,18,Laki-laki,Tinggi,Urban,4,Rendah
+Akuntansi,17,Perempuan,Rendah,Rural,9,Sedang
+Multimedia,15,Laki-laki,Menengah,Suburban,2,Rendah
+Perkantoran,16,Perempuan,Rendah,Urban,8,Tinggi
+Tata Boga,18,Laki-laki,Tinggi,Rural,5,Sedang
+Teknik Mesin,17,Laki-laki,Menengah,Suburban,10,Tinggi
+Teknik Otomotif,15,Laki-laki,Rendah,Urban,6,Sedang
+Akuntansi,16,Laki-laki,Tinggi,Rural,3,Rendah
+Multimedia,18,Perempuan,Menengah,Suburban,7,Sedang
+Perkantoran,17,Perempuan,Rendah,Urban,9,Tinggi
+Tata Boga,15,Perempuan,Tinggi,Rural,11,Tinggi
+Teknik Mesin,16,Laki-laki,Rendah,Suburban,4,Tinggi
+Teknik Otomotif,18,Laki-laki,Menengah,Urban,8,Tinggi
+Akuntansi,17,Laki-laki,Rendah,Rural,2,Rendah
+Multimedia,15,Perempuan,Tinggi,Suburban,6,Sedang
+Perkantoran,16,Laki-laki,Menengah,Urban,10,Tinggi
+Tata Boga,18,Laki-laki,Rendah,Rural,5,Sedang
+Teknik Mesin,17,Perempuan,Menengah,Suburban,7,Sedang
+Teknik Otomotif,15,Laki-laki,Tinggi,Urban,3,Rendah
+Akuntansi,16,Perempuan,Rendah,Rural,9,Tinggi
+Multimedia,18,Laki-laki,Menengah,Suburban,8,Tinggi
+Perkantoran,17,Perempuan,Tinggi,Urban,4,Tinggi
+Tata Boga,15,Laki-laki,Rendah,Rural,11,Tinggi
+Teknik Mesin,16,Laki-laki,Menengah,Suburban,6,Sedang
+Teknik Otomotif,18,Perempuan,Rendah,Urban,2,Rendah
+Akuntansi,17,Laki-laki,Menengah,Rural,7,Sedang
+Multimedia,15,Perempuan,Tinggi,Suburban,10,Tinggi
+Perkantoran,16,Laki-laki,Rendah,Urban,5,Sedang
+Tata Boga,18,Perempuan,Menengah,Rural,9,Tinggi
+Teknik Mesin,17,Laki-laki,Tinggi,Suburban,3,Rendah
+Teknik Otomotif,15,Laki-laki,Rendah,Urban,6,Sedang
+Akuntansi,16,Perempuan,Menengah,Rural,8,Sedang
+Multimedia,18,Laki-laki,Rendah,Suburban,4,Rendah
+Perkantoran,17,Perempuan,Tinggi,Urban,11,Tinggi
+Tata Boga,15,Laki-laki,Menengah,Rural,7,Sedang
+Teknik Mesin,16,Perempuan,Rendah,Suburban,2,Rendah
+Teknik Otomotif,18,Laki-laki,Menengah,Urban,9,Tinggi
+Akuntansi,17,Laki-laki,Rendah,Rural,5,Sedang
+Multimedia,15,Perempuan,Tinggi,Suburban,10,Tinggi
+Perkantoran,16,Laki-laki,Menengah,Urban,8,Tinggi
+Tata Boga,18,Laki-laki,Rendah,Rural,3,Rendah
+Teknik Mesin,17,Laki-laki,Menengah,Suburban,6,Rendah
+Teknik Otomotif,15,Laki-laki,Tinggi,Urban,11,Tinggi
+Akuntansi,16,Perempuan,Rendah,Rural,4,Rendah
+Multimedia,18,Perempuan,Menengah,Suburban,7,Sedang
+Perkantoran,17,Perempuan,Tinggi,Urban,2,Rendah
+Tata Boga,15,Perempuan,Menengah,Rural,9,Tinggi
+Teknik Mesin,16,Laki-laki,Rendah,Suburban,5,Sedang
+Teknik Otomotif,18,Laki-laki,Menengah,Urban,8,Tinggi
+Akuntansi,17,Laki-laki,Rendah,Rural,10,Tinggi
+Multimedia,15,Laki-laki,Tinggi,Suburban,3,Rendah
+Perkantoran,16,Perempuan,Menengah,Urban,6,Rendah
+Tata Boga,18,Laki-laki,Rendah,Rural,11,Tinggi
+Teknik Mesin,17,Perempuan,Menengah,Suburban,7,Sedang
+Teknik Otomotif,15,Laki-laki,Tinggi,Urban,4,Rendah
+Akuntansi,16,Perempuan,Rendah,Rural,9,Tinggi
+Multimedia,18,Laki-laki,Menengah,Suburban,2,Rendah
+Perkantoran,17,Laki-laki,Tinggi,Urban,8,Tinggi
+Tata Boga,15,Laki-laki,Menengah,Rural,5,Sedang
+Teknik Mesin,16,Laki-laki,Rendah,Suburban,10,Tinggi
+Teknik Otomotif,18,Perempuan,Menengah,Urban,6,Sedang
+Akuntansi,17,Laki-laki,Rendah,Rural,3,Tinggi
+Multimedia,15,Perempuan,Tinggi,Suburban,7,Sedang
+Perkantoran,16,Perempuan,Rendah,Urban,9,Tinggi
+Tata Boga,18,Laki-laki,Tinggi,Rural,11,Tinggi
+Teknik Mesin,17,Laki-laki,Menengah,Suburban,4,Rendah
+Teknik Otomotif,15,Laki-laki,Rendah,Urban,8,Tinggi
+Akuntansi,16,Laki-laki,Menengah,Rural,2,Rendah
+Multimedia,18,Perempuan,Rendah,Suburban,6,Sedang
+Perkantoran,17,Laki-laki,Tinggi,Urban,10,Tinggi
+Tata Boga,15,Perempuan,Menengah,Rural,5,Sedang
+Teknik Mesin,16,Laki-laki,Rendah,Suburban,7,Rendah
+Teknik Otomotif,18,Laki-laki,Menengah,Urban,3,Rendah
+Akuntansi,17,Perempuan,Rendah,Rural,9,Tinggi
+Multimedia,15,Laki-laki,Tinggi,Suburban,8,Tinggi
+Perkantoran,16,Perempuan,Menengah,Urban,4,Rendah
+Tata Boga,18,Laki-laki,Rendah,Rural,11,Tinggi
+Teknik Mesin,17,Perempuan,Menengah,Suburban,6,Sedang
+Teknik Otomotif,15,Laki-laki,Tinggi,Urban,2,Rendah
+Akuntansi,16,Laki-laki,Rendah,Rural,7,Sedang
+Multimedia,18,Perempuan,Menengah,Suburban,10,Tinggi
+Perkantoran,17,Laki-laki,Tinggi,Urban,5,Rendah
+Tata Boga,15,Perempuan,Menengah,Rural,9,Tinggi
+Teknik Mesin,16,Laki-laki,Rendah,Suburban,3,Rendah
+Teknik Otomotif,18,Laki-laki,Menengah,Urban,6,Sedang
+Akuntansi,17,Perempuan,Rendah,Rural,8,Tinggi
+Multimedia,15,Laki-laki,Tinggi,Suburban,4,Rendah
+Perkantoran,16,Perempuan,Menengah,Urban,11,Tinggi
+Tata Boga,18,Laki-laki,Rendah,Rural,7,Sedang
+Teknik Mesin,17,Laki-laki,Tinggi,Suburban,2,Rendah
+Teknik Otomotif,15,Perempuan,Menengah,Urban,9,Tinggi
+Akuntansi,16,Laki-laki,Rendah,Rural,5,Rendah
+Multimedia,18,Laki-laki,Menengah,Suburban,10,Tinggi
+Perkantoran,17,Perempuan,Rendah,Urban,8,Tinggi
+Tata Boga,15,Laki-laki,Tinggi,Rural,3,Rendah
+Teknik Mesin,16,Perempuan,Menengah,Suburban,6,Sedang
+Teknik Otomotif,18,Laki-laki,Rendah,Urban,11,Tinggi
+Akuntansi,17,Perempuan,Tinggi,Rural,4,Rendah
+Multimedia,15,Laki-laki,Rendah,Suburban,7,Sedang
+Perkantoran,16,Laki-laki,Menengah,Urban,2,Rendah
+Tata Boga,18,Perempuan,Menengah,Rural,9,Tinggi
+Teknik Mesin,17,Laki-laki,Rendah,Suburban,5,Rendah
+Teknik Otomotif,15,Laki-laki,Menengah,Urban,8,Tinggi
+Akuntansi,16,Perempuan,Rendah,Rural,10,Tinggi
+Multimedia,18,Laki-laki,Tinggi,Suburban,3,Rendah
+Perkantoran,17,Perempuan,Menengah,Urban,6,Sedang
+Tata Boga,15,Laki-laki,Rendah,Rural,11,Tinggi
+Teknik Mesin,16,Laki-laki,Menengah,Suburban,7,Sedang
+Teknik Otomotif,18,Perempuan,Tinggi,Urban,4,Rendah
+Akuntansi,17,Laki-laki,Rendah,Rural,9,Tinggi
+Multimedia,15,Perempuan,Menengah,Suburban,2,Rendah
+Perkantoran,16,Laki-laki,Rendah,Urban,8,Sedang
+Tata Boga,18,Laki-laki,Menengah,Rural,5,Sedang
+Teknik Mesin,17,Laki-laki,Tinggi,Suburban,10,Tinggi
+Teknik Otomotif,15,Laki-laki,Menengah,Urban,6,Sedang
+Akuntansi,16,Perempuan,Rendah,Rural,3,Rendah
+Multimedia,18,Perempuan,Menengah,Suburban,7,Sedang
+Perkantoran,17,Perempuan,Tinggi,Urban,9,Tinggi
+Tata Boga,15,Perempuan,Rendah,Rural,11,Tinggi
+Teknik Mesin,16,Laki-laki,Menengah,Suburban,4,Rendah
+Teknik Otomotif,18,Laki-laki,Rendah,Urban,8,Tinggi
+Akuntansi,17,Laki-laki,Menengah,Rural,2,Tinggi
+Multimedia,15,Laki-laki,Tinggi,Suburban,6,Sedang
