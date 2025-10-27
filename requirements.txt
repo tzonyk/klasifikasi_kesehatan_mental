@@ -2,4 +2,5 @@ pandas
 seaborn
 scikit-learn
 joblib
+catboost
 streamlit
